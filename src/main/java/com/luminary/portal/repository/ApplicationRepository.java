@@ -1,8 +1,6 @@
 package com.luminary.portal.repository;
 
 import com.luminary.portal.entity.Application;
-import com.luminary.portal.entity.JobPost;
-import com.luminary.portal.entity.User;
 import com.luminary.portal.entity.enums.ApplicationStatus;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

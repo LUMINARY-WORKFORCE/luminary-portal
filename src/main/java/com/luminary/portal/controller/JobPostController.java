@@ -2,7 +2,6 @@ package com.luminary.portal.controller;
 
 import com.luminary.portal.dto.job.JobPostRequest;
 import com.luminary.portal.dto.job.JobPostResponse;
-import com.luminary.portal.dto.PagedResponse;
 import com.luminary.portal.dto.job.JobSearchRequest;
 import com.luminary.portal.dto.job.JobSearchResponse;
 import com.luminary.portal.entity.User;
