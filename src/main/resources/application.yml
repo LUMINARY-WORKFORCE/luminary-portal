@@ -26,4 +26,4 @@ jwt:
 app:
   pagination:
     default-page: 0
-    default-size: 20
+    default-size: 10
